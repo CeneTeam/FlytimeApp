@@ -1,0 +1,295 @@
+@font-face {
+  font-family: "HerokidLongExtraBold";
+  src: local("HerokidLongExtraBold"), local("HerokidLongExtraBold"),
+    url("../assets/fonts/herokid/Herokid-ExtraBoldUltraCondensed.otf")
+      format("opentype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "HerokidBoldUltraCondenced";
+  src: local("HerokidBoldUltraCondenced"), local("HerokidBoldUltraCondenced"),
+    url("../assets/fonts/herokid/Herokid-BoldUltraCondensed.otf")
+      format("opentype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Herokid";
+  src: local("Herokid"), local("Herokid"),
+    url("../assets/fonts/herokid/Herokid-Regular.otf")
+      format("opentype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "HerokidRegularCondensed";
+  src: local("HerokidRegularCondensed"), local("HerokidRegularCondensed"),
+    url("../assets/fonts/herokid//Herokid-RegularCondensed.otf")
+      format("opentype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "HerokidHeavyNarrow";
+  src: local("HerokidHeavyNarrow"), local("HerokidHeavyNarrow"),
+    url("../assets/fonts/herokid/Herokid-HeavyNarrow.otf")
+      format("opentype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "HerokidBoldNarrow";
+  src: local("HerokidBoldNarrow"), local("HerokidBoldNarrow"),
+    url("../assets/fonts/herokid/Herokid-BoldNarrow.otf")
+      format("opentype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "HerokidLightExpanded";
+  src: local("HerokidLightExpanded"), local("HerokidLightExpanded"),
+    url("../assets/fonts/herokid/Herokid-LightExpanded.otf")
+      format("opentype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "HerokidBoldExpanded";
+  src: local("HerokidBoldExpanded"), local("HerokidBoldExpanded"),
+    url("../assets/fonts/herokid/Herokid-BoldExpanded.otf")
+      format("opentype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "HerokidSemiBoldWide";
+  src: local("HerokidSemiBoldWide"), local("HerokidSemiBoldWide"),
+    url("../assets/fonts/herokid/Herokid-SemiBoldWide.otf")
+      format("opentype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "HerokidBoldWide";
+  src: local("HerokidBoldWide"), local("HerokidBoldWide"),
+    url("../assets/fonts/herokid/Herokid-BoldWide.otf")
+      format("opentype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+
+@font-face {
+  font-family: "HerokidLightWide";
+  src: local("HerokidLightWide"), local("HerokidLightWide"),
+    url("../assets/fonts/herokid/Herokid-LightWide.otf")
+      format("opentype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "HerokidExtraBoldWide";
+  src: local("HerokidExtraBoldWide"), local("HerokidExtraBoldWide"),
+    url("../assets/fonts/herokid/Herokid-ExtraBoldWide.otf")
+      format("opentype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "HerokidRegularExpanded";
+  src: local("HerokidRegularExpanded"), local("HerokidRegularExpanded"),
+    url("../assets/fonts/herokid/Herokid-RegularExpanded.otf")
+      format("opentype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "HerokidLongBold";
+  src: local("HerokidLongBold"), local("HerokidLongBold"),
+    url("../assets/fonts/herokid/Herokid-RegularUltraCondensed.otf")
+      format("opentype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "HerokidExtraBoldCondensed";
+  src: local("HerokidExtraBoldCondensed"), local("HerokidExtraBoldCondensed"),
+    url("../assets/fonts/herokid/Herokid-ExtraBoldCondensed.otf")
+      format("opentype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "HerokidBoldCondensed";
+  src: local("HerokidBoldCondensed"), local("HerokidBoldCondensed"),
+    url("../assets/fonts/herokid/Herokid-BoldCondensed.otf")
+      format("opentype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "HerokidBold";
+  src: local("HerokidBold"), local("HerokidBold"),
+    url("../assets/fonts/herokid/Herokid-Bold.otf")
+      format("opentype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "HerokidBoldExpanded";
+  src: local("HerokidBoldExpanded"), local("Herokid-Bold-Expanded"),
+    url("../assets/fonts/herokid/Herokid-BoldExpanded.otf")
+      format("opentype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "HerokidExtraBoldExpanded";
+  src: local("HerokidExtraBoldExpanded"), local("HerokidExtraBoldExpanded"),
+    url("../assets/fonts/herokid/Herokid-ExtraBoldExpanded.otf")
+      format("opentype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "HerokidSemiBold";
+  src: local("HerokidSemiBold"), local("HerokidSemiBold"),
+    url("../assets/fonts/herokid/Herokid-SemiBold.otf")
+      format("opentype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "HerokidSemiBoldExpanded";
+  src: local("HerokidSemiBoldExpanded"), local("HerokidSemiBoldExpanded"),
+    url("../assets/fonts/herokid/Herokid-SemiBoldExpanded.otf")
+      format("opentype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+
+
+
+
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  scroll-behavior: smooth;
+  background-color: var(--blackPrimary);
+}
+html{
+  font-size: 16px;
+}
+::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+}
+::-webkit-scrollbar-button {
+  width: 0;
+  height: 0;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  scroll-behavior: smooth;
+}
+p{
+  font-family: "Herokid", sans-serif;
+}
+
+li, button{
+  font-family: "HerokidBoldExpanded", sans-serif  !important;
+}
+
+
+h2 span{
+  font-family: "HerokidLongExtraBold", sans-serif ;
+}
+
+
+h2 {
+  font-family: "HerokidLongBold", sans-serif ;
+}
+
+h3 {
+  font-family: "HerokidBoldCondensed", sans-serif ;
+}
+
+h3  span{
+  font-family: "HerokidExtraBoldCondensed", sans-serif ;
+}
+h1{
+  font-family: "HerokidHeavyNarrow", sans-serif;
+}
+
+h5 {
+  font-family: "HerokidBold", sans-serif ;
+}
+
+
+@media (prefers-color-scheme: dark) {
+  html {
+    color-scheme: dark;
+  }
+  body {
+    color: white;
+    background: black;
+  }
+}
+.ant-dropdown-menu-item, .ant-dropdown-menu-submenu-title {
+  font-size: 12px !important;
+}
+.ant-dropdown{
+  z-index: 9999999999999999999 !important;
+}
+
+.green__button:hover  svg path{
+  fill: var(--limePrimary);
+  transition: all .3s ease;
+}
